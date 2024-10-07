@@ -4,49 +4,49 @@
  
 #EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SPORTV",SPORTV 1
 https://new.embedflix.co/sportv/tracks-v1a1/mono.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SPORTV",SPORTV 2
 https://new.embedflix.co/sportv2/tracks-v1a1/mono.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SPORTV",SPORTV 3
 https://stream.embedflix.co/sportv3/tracks-v1a1/mono.m3u8
- 
+
 ############################################################################ PREMIERE
- 
+
 #EXTINF:-1 tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="Canais | PREMIERE",PREMIERE 1
 https://stream.embedflix.co/pre1/tracks-v1a1/mono.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="Canais | PREMIERE",PREMIERE 2
 https://stream.embedflix.co/pre2/tracks-v1a1/mono.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="Canais | PREMIERE",PREMIERE 3
 https://stream.embedflix.co/pre3/tracks-v1a1/mono.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="Canais | PREMIERE",PREMIERE 4
 https://stream.embedflix.co/pre4/tracks-v1a1/mono.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="Canais | PREMIERE",PREMIERE 5
 https://stream.embedflix.co/pre5/tracks-v1a1/mono.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="Canais | PREMIERE",PREMIERE 6
 https://stream.embedflix.co/pre6/tracks-v1a1/mono.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="Canais | PREMIERE",PREMIERE 7
 https://stream.embedflix.co/pre7/tracks-v1a1/mono.m3u8
- 
+
 ############################################################################ ESPN
  
 #EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Canais | ESPN",ESPN 1
 https://stream.embedflix.co/espn/tracks-v1a1/mono.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Canais | ESPN",ESPN 2
 https://stream.embedflix.co/espn2/tracks-v1a1/mono.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Canais | ESPN",ESPN 3
 https://stream.embedflix.co/espn3/tracks-v1a1/mono.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Canais | ESPN",ESPN 4
 https://stream.embedflix.co/espn4/tracks-v1a1/mono.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Canais | ESPN",ESPN
 https://xn--1ktrw53ek20m9uub3vqapa14guicplivfjp608bl15m47qo3ew23-ib5brl.p7s1lm71nyxyt6o845mp01tpa2sw7yeq4ynrjeio3a7e0eml4telo3a7e0eml4t.foo/a1/docs/espn/__index.m3u8
