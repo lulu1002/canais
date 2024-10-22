@@ -3,13 +3,13 @@
 ############################################################################ SPORTV
  
 #EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SPORTV",SPORTV 1
-https://new.embedflix.co/sportv/tracks-v1a1/mono.m3u8
+	https://new.m3u8.one/sportv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SPORTV",SPORTV 2
-https://new.embedflix.co/sportv2/tracks-v1a1/mono.m3u8
+	https://new.m3u8.one/sportv2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SPORTV",SPORTV 3
-https://stream.embedflix.co/sportv3/tracks-v1a1/mono.m3u8
+	https://new.m3u8.one/sportv3/tracks-v1a1/mono.m3u8
 
 ############################################################################ PREMIERE
 
