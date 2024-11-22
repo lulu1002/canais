@@ -1,76 +1,17 @@
 #EXTM3U
  
-############################################################################ SPORTV
+#EXTINF: group-title="LUYAN CANAIS |LUYAN "
  
-#EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SPORTV",SPORTV 1
-https://embedcanaistv.site/sportv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SPORTV",SPORTV 2
-https://embedcanaistv.site/sportv2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgur.com/bwqLqyg.png" group-title="Canais | SPORTV",SPORTV 3
-https://embedcanaistv.site/sportv3/tracks-v1a1/mono.m3u8
-
-############################################################################ PREMIERE
-
-#EXTINF:-1 tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="Canais | PREMIERE",PREMIERE 1
-https://embedcanaistv.site/premiere/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="Canais | PREMIERE",PREMIERE 2
-https://embedcanaistv.site/premiere2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="Canais | PREMIERE",PREMIERE 3
-https://embedcanaistv.site/premiere3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="Canais | PREMIERE",PREMIERE 4
-https://embedcanaistv.site/premiere4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://s3.glbimg.com/v1/AUTH_f486c675dfaf4c6e96c25f0c21f85eb5/prod/home-share-1b75cdaa.png" group-title="Canais | PREMIERE",PREMIERE 5
-https://embedcanaistv.site/premiere5/tracks-v1a1/mono.m3u8
-
-############################################################################ ESPN
+############################################################################ Canais | SPORTV
  
-#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Canais | ESPN",ESPN 1
-https://embedcanaistv.site/espn/video.m3u8
+#EXTINF:-1 group-title="Canais | SPORTV",SPORTV FHD
+https://cdn.adultiptv.net/teen.m3u8
+ 
+#EXTINF:-1 group-title="Canais | SPORTV",SPORTV 4K
+https://cdn.adultiptv.net/milf.m3u8
+ 
+#EXTINF:-1 group-title="Canais | SPORTV",SPORTV 3 FHD
+https://cdn.adultiptv.net/lesbian.m3u8
 
-#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Canais | ESPN",ESPN 2
-https://embedcanaistv.site/espn2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Canais | ESPN",ESPN 3
-https://embedcanaistv.site/espn3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Canais | ESPN",ESPN 4
-https://embedcanaistv.site/espn4/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Canais | ESPN",ESPN 5
-https://embedcanaistv.site/espn5/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://a1.espncdn.com/combiner/i?img=%2Fi%2Fespn%2Fespn_logos%2Fespn_red.png" group-title="Canais | ESPN",ESPN 6
-https://embedcanaistv.site/espn6/tracks-v1a1/mono.m3u8
-
-############################################################################ HBO
-
-#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/aScF2RW4-nQCFhEttTo_47_AFa7TyoDcL59zNWTAYFQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZG93bmxvYWQub3Jn/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDI0/LzAzL21heC1sb2dv/LTAucG5n" group-title="Canais | MAX",MAX 1
-https://embedcanaistv.site/max/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/aScF2RW4-nQCFhEttTo_47_AFa7TyoDcL59zNWTAYFQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZG93bmxvYWQub3Jn/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDI0/LzAzL21heC1sb2dv/LTAucG5n" group-title="Canais | MAX",MAX 2
-https://embedcanaistv.site/max2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/aScF2RW4-nQCFhEttTo_47_AFa7TyoDcL59zNWTAYFQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZG93bmxvYWQub3Jn/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDI0/LzAzL21heC1sb2dv/LTAucG5n" group-title="Canais | MAX",MAX 3
-https://embedcanaistv.site/max3/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/aScF2RW4-nQCFhEttTo_47_AFa7TyoDcL59zNWTAYFQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZG93bmxvYWQub3Jn/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDI0/LzAzL21heC1sb2dv/LTAucG5n" group-title="Canais | MAX",MAX 4
-https://embedcanaistv.site/max4/tracks-v1a1/mono.m3u8
-
-############################################################################ TNTSPORTS
-
-#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/Yd92YAq6DYhILseZUcArDDCn5bRxLh0E3P9FMd3kdhU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuY2RubG9nby5j/b20vbG9nb3MvdC8x/L3RudC1zcG9ydHMu/cG5n" group-title="Canais | TNTSPORTS",TNTSPORTS 1
-https://embedcanaistv.site/tntsports/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/Yd92YAq6DYhILseZUcArDDCn5bRxLh0E3P9FMd3kdhU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuY2RubG9nby5j/b20vbG9nb3MvdC8x/L3RudC1zcG9ydHMu/cG5n" group-title="Canais | TNTSPORTS",TNTSPORTS 2
-https://embedcanaistv.site/tntsports2/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/Yd92YAq6DYhILseZUcArDDCn5bRxLh0E3P9FMd3kdhU/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMuY2RubG9nby5j/b20vbG9nb3MvdC8x/L3RudC1zcG9ydHMu/cG5n" group-title="Canais | TNTSPORTS",TNTSPORTS 3
-https://embedcanaistv.site/tntsports3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Canais | SPORTV",SPORTV 3 FHD
+https://cdn.adultiptv.net/tits.m3u8
