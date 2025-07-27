@@ -35,3 +35,16 @@ img {
     margin-top: -50px;
     margin-bottom: 50px;
 }
+
+button {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    width: 100px;
+    height: 50px;
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
