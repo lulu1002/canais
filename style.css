@@ -1,0 +1,37 @@
+body {
+    background-color: black;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+.titulo {
+    display: flex;
+    color: white;
+    justify-content: center;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+section {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: 0px;
+    justify-content: space-between;
+    margin: 79px;
+
+    
+}
+img {
+    display: flex;
+    justify-content: center;
+    width: 300px;
+    height: 300px;
+    border: solid 3px rgb(224, 19, 19);
+    border-radius: 29px;
+    filter: blur(0px);
+    margin-top: -50px;
+    margin-bottom: 50px;
+}

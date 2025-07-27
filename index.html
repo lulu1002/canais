@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>luyan canais</title>
+</head>
+<body>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #000000;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        section {
+            display: flex;
+            margin-bottom: 20px;
+            justify-content: center;
+            margin-top: 200px;
+            
+        }
+        h1 {
+            display: flex;
+            color: #444;
+            justify-content: center;
+            margin-top: -80px;
+            margin-right: -190px;
+            color: white;
+            font-size: 50px;
+        }
+        form {
+            background-color: #ce1c1c;
+            padding: 10px;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            width: 300px;
+           
+            
+        }
+        label {
+            display: block;
+            margin-bottom: 10px;
+        }
+        input[type="text"],
+        input[type="password"] {
+            width: 50%;
+            padding: 8px;
+            margin-bottom: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+        button {
+            background-color: #28a745;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+        }
+    </style>
+    <section>
+        <h1>login</h1>
+        <form action="index.html" method="post">
+            <label for="username">Usuário:</label>
+            <input type="text" id="username" name="username" required>
+            <br>
+            <label for="password">Senha:</label>
+            <input type="password" id="password" name="password" required>
+            <br>
+            <button type="submit">Entrar</button>
+    </section>
+    <script>
+        // Script para validação do formulário de login
+        document.querySelector('form').addEventListener('submit', function (event) {
+            const username = document.getElementById('username').value;
+            const password = document.getElementById('password').value;
+
+            // Verifica se os campos estão preenchidos
+            if (!username || !password) {
+                event.preventDefault();
+                alert('Por favor, preencha todos os campos.');
+            }
+            // Verifica o tamanho mínimo dos campos
+            else if (username.length < 3 || password.length < 6) {
+                event.preventDefault();
+                alert('Usuário deve ter pelo menos 3 caracteres e senha pelo menos 6 caracteres.');
+            }
+            // Verifica se usuário e senha estão corretos
+            else if (username === "luian123" && password === "luian123") {
+                event.preventDefault();
+                alert('login bem-sucedido');
+                window.location.href = 'index2.html'; // Redireciona para index2.html
+            }
+            // Caso usuário ou senha estejam errados
+            else {
+                event.preventDefault();
+                alert('Usuário ou senha incorretos.');
+            }
+        });
+    </script>
+    
+</body>
+</html>
